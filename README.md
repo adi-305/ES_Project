@@ -28,6 +28,6 @@ For the LCD Panel connect 10 pin FRC cable from CND to CNAD. For the 4x4 Key Mat
 ![Alt text](https://www.exploreembedded.com/wiki/images/b/b8/LPC1768_4bit_LCD.PNG)
 Block Diagram of 16x2 LCD
 
-![Alt text]([https://www.exploreembedded.com/wiki/images/b/b8/LPC1768_4bit_LCD.PNG](https://www.researchgate.net/publication/285925465/figure/fig4/AS:388522428125195@1469642373886/Arrangement-of-Keys-for-4x4-Keypad-matrix.png))
+![Alt text](https://www.researchgate.net/publication/285925465/figure/fig4/AS:388522428125195@1469642373886/Arrangement-of-Keys-for-4x4-Keypad-matrix.png)
 Block Diagram of 4x4 Switch Key Matrix
 
