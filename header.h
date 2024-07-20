@@ -138,6 +138,5 @@ void wr_dn() {
     LPC_GPIO0->FIOSET = EN_CTRL; // Enable pulse
     delay_lcd(25);
     LPC_GPIO0->FIOCLR = EN_CTRL; // Disable pulse
-
     return;
 }
